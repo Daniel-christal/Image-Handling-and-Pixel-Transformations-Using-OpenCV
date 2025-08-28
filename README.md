@@ -220,36 +220,59 @@ plt.show()
 
 ## Output:
 **i)** Read and Display an Image.
+
 1.Read 'Eagle_in_Flight.jpg' as grayscalw and displayed:
+
  <img width="600" height="438" alt="image" src="https://github.com/user-attachments/assets/ec572bcc-300e-44f0-acb0-dd41dc61445b" />
+ 
 2.Saved image as PNG and displayed:
+
 <img width="606" height="453" alt="image" src="https://github.com/user-attachments/assets/c849253f-6749-45c3-a2ca-5f5baa430f88" />
+
 3.Cropped image:
+
 <img width="396" height="495" alt="image" src="https://github.com/user-attachments/assets/b169bb15-3dc2-4ea3-983d-6f87de730761" />
+
 4.Resized and flipped Horizontally:
+
 <img width="379" height="389" alt="image" src="https://github.com/user-attachments/assets/8cd39fd2-4eb8-407b-a2e6-d7e975c31450" />
+
 5.Read 'Apollo-11-launch.jpg' and Displayed:
+
 <img width="733" height="440" alt="image" src="https://github.com/user-attachments/assets/958bb4fe-5403-4826-b87d-2b0cd5490a20" />
+
 6.Displayed the final annotated image:
+
 <img width="749" height="430" alt="image" src="https://github.com/user-attachments/assets/9e78eeb8-5b8f-4011-a95b-9209081700b6" />
+
 **ii)** Adjust Image Brightness.
+
 1.Created brighter and darker images and displayed:
+
 <img width="803" height="208" alt="image" src="https://github.com/user-attachments/assets/22bf1b15-530d-4464-8388-fb59cad9717d" />
+
 **iii)** Modify Image Contrast.
+
 1. Modified the contrast using scaling factors 1.1 and 1.2:
-   <img width="791" height="209" alt="image" src="https://github.com/user-attachments/assets/fd16c885-1bc7-4bfb-99a4-d8b2ca16605b" />
+
+<img width="791" height="209" alt="image" src="https://github.com/user-attachments/assets/fd16c885-1bc7-4bfb-99a4-d8b2ca16605b" />
 
 **iv)** Generate Third Image Using Bitwise Operations.
+
 1.Splitted 'Boy.jpg' into B, G, R components and displayed:
+
 <img width="792" height="208" alt="image" src="https://github.com/user-attachments/assets/22a4a9f3-cf1b-4534-b1e0-2ad787c9403d" />
 
 2.Merged the R, G, B channels and displayed:
+
 <img width="512" height="411" alt="download" src="https://github.com/user-attachments/assets/6da85011-eec7-4723-ac56-d42416d73928" />
 
 3.Splitted the image into H, S, V components and displayed:
+
 <img width="794" height="213" alt="download" src="https://github.com/user-attachments/assets/2c7b839b-74fa-4285-9ebc-104a628021ec" />
 
 4.Merged the H, S, V channels and displayed:
+
 <img width="608" height="240" alt="image" src="https://github.com/user-attachments/assets/039a0d4e-60ab-4625-99ce-89eaa2429318" />
 
 
